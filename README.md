@@ -5,7 +5,7 @@ A fully functioning Google Books API search engine built with a GraphQL API buil
 This is an organized electronic showcase of my talents and most relevant skills.
 
 ## Usage
-Use the link to the deployed <a href="https://jamillerooks.github.io/portfolio-app/" target ="_blank">Book Search Engine</a> on Heroku. 
+Use the link to the deployed <a href="https://lit-escarpment-05549.herokuapp.com/" target ="_blank">Book Search Engine</a> on Heroku. 
 GraphQL API built with Apollo Server. 
 The app was built using the MERN stack with a React front end
 MongoDB database, and Node.js/Express.js server and API
